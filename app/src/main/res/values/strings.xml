@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sales Report</string>
+    <string name="basic_info">Basic Info</string>
+    <string name="sales_earning">Status</string>
+</resources>
